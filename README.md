@@ -1,8 +1,5 @@
 # KEYBOARD
-I started with picking up Raspberry Pico as out main microcontroller and this would be a 60 % layout Keyboard with 2 rotor encoders.
-The rotor encoders will be use to control Brightness and Volume and the switch in those 2 encoders will act as a custom key to take screenshot and to delete.
-I also did the schematic of the keyboard, I added the stabilizers to the switches which were longer then 1.75U.
-The Keyboard uses a matrix grid so i need only a few gpio pins for the whole keyboard to work.
+I started up with raspberry pico as our main microcontroller then i started up with the keyboard matrix and diodes of a 60% layout keyboard then i added 2 rotor incoders so to add delete and screenshot features as encoders buttion and volume and brigthess control as there nobs. then i started up with the pcb design and made the 3d case. The source code is based on KMK and Circuit Python
 ## Features
 
 - Base on Raspberry pico
