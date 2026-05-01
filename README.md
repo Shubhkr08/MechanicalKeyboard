@@ -27,9 +27,9 @@ I started up with raspberry pico as our main microcontroller then i started up w
 | 3 | Raspberry Pi Pico H | RP2040 microcontroller board | 1 | 5.5 | 5.5 | https://robu.in/product/raspberry-pi-pico-with-headers/ |
 | 4 |  Keycap Set | Full keycap set | 1 | 27.7 | 27.7 | https://stackskb.com/store/blue-and-blue-double-shot-abs-cherry-profile-keycaps-pre-order/ |
 | 5 | Screw-In Stabilizers V2 | Keyboard stabilizers | 1 | 0 |0 | Already have |
-| 6 | PCB + Shipping | PCB fabrication (Seedstudio) | 1 |117.36 | 117.36 |https://www.seeedstudio.com/ |
+| 6 | PCB + Shipping | PCB fabrication (robu.in) | 1 | 61.14 | 61.14 |https://robu.in/ |
 
-**Estimated Total Hardware Cost:** **USD 186.16**
+**Estimated Total Hardware Cost:** **USD 129.94**
 
 ## Hardware
 - Raspberry Pico 
