@@ -22,14 +22,14 @@ I started up with raspberry pico as our main microcontroller then i started up w
 
 | # | Item | Description | Quantity | Unit Price (USD) | Total (USD) | Link |
 |---|------|-------------|----------|------------------|-------------|------|
-| 1 | 80Retros x HMX Volume | Mechanical switches (pack of 35) | 2 packs | 17.8 | 35.6 | https://stackskb.com/store/hmx-volume-0-pack-of-35/ |
+| 1 | 80Retros x HMX Volume | Mechanical switches (pack of 35) | 2 packs |16.93 | 33.86 | https://stackskb.com/store/hmx-volume-0-pack-of-35/ |
 | 2 | 1N4148 Diode | DO-35 switching diode | 61 | 0 | 0 | | Already have
 | 3 | Raspberry Pi Pico H | RP2040 microcontroller board | 1 | 5.5 | 5.5 | https://robu.in/product/raspberry-pi-pico-with-headers/ |
-| 4 |  Keycap Set | Full keycap set | 1 | 15.2 | 15.2 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/comic-gundam-keycap-set/ |
+| 4 |  Keycap Set | Full keycap set | 1 | 13.74 | 13.74 | https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/  |
 | 5 | Screw-In Stabilizers V2 | Keyboard stabilizers | 1 | 0 |0 | Already have |
-| 6 | PCB + Shipping | PCB fabrication (robu.in) | 1 | 61.14 | 61.14 |https://robu.in/ |
+| 6 | PCB + Shipping | PCB fabrication (robu.in) | 1 | 59.52 | 59.52 |https://robu.in/ |
 
-**Estimated Total Hardware Cost:** **USD 117.45**
+**Estimated Total Hardware Cost:** **USD 112.62**
 
 ## Hardware
 - Raspberry Pico 
